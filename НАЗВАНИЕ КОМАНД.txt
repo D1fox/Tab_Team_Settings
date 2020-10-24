@@ -1,0 +1,91 @@
+	"Название команд"				"Квары команд"
+	"100 Thieves"                	thv  
+	"3DMAX"                      	3dm
+	"Astana" Dragons" 				ad
+	"Astralis"  					astr
+	"Avangar"  						avg
+	"BIG"  							big
+	"Bravado Gaming"				bravg
+	"ClanMystik"  					cm
+	"Cloud9"  						c9 / c9g
+	"compLexity Gaming"  			col
+	"Copenhagen Wolves"  			cw
+	"Counter Logic Gaming"  		clg
+	"CR4ZY"  						cr4z
+	"dAT Team"  					dat
+	"Team Dignitas"  				dig
+	"DreamEaters"  					drea
+	"Team eBettle"  				ebet
+	"ENCE eSports"  				ence
+	"Team EnVyUs"  					nv
+	"Epsilon eSports"	 			eps		
+	"ESC Gaming"  					esc
+	"FaZe Clan"  					faze		
+	"Flash Gaming"  				flg		
+	"Flipsid3 Tactics"  			flip		
+	"Fnatic" 						fntc		
+	"forZe" 						forz		
+	"FURIA Esports"  				furi
+	"G2 Esports"  					g2		
+	"Gambit Esports"  				gamb		
+	"GODSENT"  						god		
+	"Grayhound Gaming"  			gray	
+	"HellRaisers"  					hlr
+	"Team iBUYPOWER"  				ibp		
+	"Immortals"  					imt		
+	"Team Immunity" 				im		
+	"INTZ eSports"  				intz	
+	"Keyd Stars"  					keyd		
+	"Team Кinguin"  				king	
+	"Team LDLC.com"  				ldlc		
+	"LGB eSports"  					lgb		
+	"Team Liquid"					liq		
+	"London Conspiracy"  			lc		
+	"Luminosity Gaming"				lumi / lumik
+	"MIBR"							mibr		
+	"Misfits"  						mfg		
+	"mousesports" 					mss		
+	"myXMG"  						myxmg
+	"n!faculty"  					nf		
+	"Natus Vincere"  				navi		
+	"Ninjas in Pyjamas" 			nip		
+	"North" 					    nor		
+	"NRG Esports" 					nrg
+	"OpTic Gaming"  				optc		
+	"Orbit Esport"  				orbit
+	"PENTA Sports"  				penta		
+	"Planetkey Dynamics"  			pkd
+	"Quantum Bellator Fire"  		qb
+	"Reason Gaming"  				r / rgg
+	"Recursive eSports"  			wgg
+	"Renegades"  					ren
+	"Rogue"  						rog
+	"SK Gaming"  					sk
+	"Space Soldiers"  				spc
+	"Team Spirit"					spir
+	"Splyce"  						splc
+	"Sprout"  						spr
+	"Syman Gamingf"					syma
+	"Team SoloMid" 					tsm / tsolo
+	"Titan"  						tit		
+	"Tyloo"  						tyl
+	"Universal Soldiers"  			us
+	"Vega Squadron"  				vega
+	"VeryGames"  					vg
+	"Vexed Gaming"  				vex
+	"ViCi Gaming"  					vici
+	"Virtus.Pro"  					vp
+	"Team Vitality"  				vita
+	"Vox Eminor" 					ve
+	"Winstrike Team"				wins		
+	"Team Wolf"						indw
+	"x6tence"  						e6ten	
+	"Xapso"  						xapso
+
+
+	Другое:
+	"No logo"  						nologo	
+	"Team Alpha"  					v / dh13aa	
+	"Team Bravo"  					v2 / dh13ab	
+	"Allstars EU"  					steu // Европейский союз
+	"Allstars US" 					stus // США
